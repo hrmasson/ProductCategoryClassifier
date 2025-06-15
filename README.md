@@ -1,5 +1,3 @@
-Dataset: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
-
 # Product Category Classifier
 
 This project predicts the category of an Amazon product based on its
