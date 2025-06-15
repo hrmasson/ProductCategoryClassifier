@@ -28,6 +28,7 @@ Enter product names or descriptions to get category predictions from both models
 To exit the app, type 'exit'.
 
 # Folder Structure
+```
 project/
 ├── data/                # Contains the raw dataset (CSV)
 ├── models/              # Saved models (FastText and LogisticRegression)
@@ -35,3 +36,4 @@ project/
 ├── app/                 # Interactive CLI application
 ├── requirements.txt     # List of dependencies
 └── README.md            # Project documentation
+```
