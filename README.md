@@ -17,9 +17,11 @@ Install required Python packages: `pip install -r requirements.txt`
 
 # Train and evaluate the Models
 
-`python src/train_fasttext.py`       # Train FastText
-`python src/train_logreg.py`         # Train Logistic Regression + TF-IDF
-`python src/evaluate.py`             # Evaluate both models
+`python src/train_fasttext.py`            # Train FastText
+
+`python src/train_logistic_regression.py` # Train Logistic Regression + TF-IDF
+
+`python src/evaluate.py`                  # Evaluate both models
 
 # Predict Categories
 
